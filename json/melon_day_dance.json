@@ -1,0 +1,806 @@
+{
+	"entries": [
+		{
+			"artist": "TWICE (트와이스)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm2/album/images/103/31/167/10331167_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Feel Special",
+			"rank": 1,
+			"imgalt": "Feel Special - 페이지 이동",
+			"videoId": "CZ61FaoaNHg"
+		},
+		{
+			"artist": "선미",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm2/album/images/103/22/222/10322222_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "날라리 (LALALAY)",
+			"rank": 2,
+			"imgalt": "날라리 (LALALAY) - 페이지 이동",
+			"videoId": "7UoUutcAd5A"
+		},
+		{
+			"artist": "ITZY (있지)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/12/251/10312251_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "ICY",
+			"rank": 3,
+			"imgalt": "IT`z ICY - 페이지 이동",
+			"videoId": "MbxJIXBw6ps"
+		},
+		{
+			"artist": "청하",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/99/371/10299371_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Snapping",
+			"rank": 4,
+			"imgalt": "Flourishing - 페이지 이동",
+			"videoId": "TPyJ_Ago-tw"
+		},
+		{
+			"artist": "Red Velvet (레드벨벳)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm2/album/images/103/19/561/10319561_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "음파음파 (Umpah Umpah)",
+			"rank": 5,
+			"imgalt": "‘The ReVe Festival’ Day 2 - 페이지 이동",
+			"videoId": "PVoToQ1TOxQ"
+		},
+		{
+			"artist": "TWICE (트와이스)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/76/861/10276861_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "FANCY",
+			"rank": 6,
+			"imgalt": "FANCY YOU - 페이지 이동",
+			"videoId": "mIXR-7u2Kas"
+		},
+		{
+			"artist": "X1 (엑스원)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm2/album/images/103/22/332/10322332_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "FLASH",
+			"rank": 7,
+			"imgalt": "비상 : QUANTUM LEAP - 페이지 이동",
+			"videoId": "eJdUu6PuRnY"
+		},
+		{
+			"artist": "ITZY (있지)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/50/473/10250473_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "달라달라",
+			"rank": 8,
+			"imgalt": "IT`z Different - 페이지 이동",
+			"videoId": "Y4NJB52j5p4"
+		},
+		{
+			"artist": "오마이걸",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm2/album/images/103/30/392/10330392_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Destiny (나의 지구)",
+			"rank": 9,
+			"imgalt": "퀸덤 Part. 2 - 페이지 이동",
+			"videoId": "9_xtwe1h1Ks"
+		},
+		{
+			"artist": "세븐틴",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm2/album/images/103/28/429/10328429_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "독 : Fear",
+			"rank": 10,
+			"imgalt": "SEVENTEEN 3RD ALBUM ‘An Ode’ - 페이지 이동",
+			"videoId": "cZ81J05A6RQ"
+		},
+		{
+			"artist": "청하",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/38/683/10238683_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "벌써 12시",
+			"rank": 11,
+			"imgalt": "벌써 12시 - 페이지 이동",
+			"videoId": "Vcl-_keiJyg"
+		},
+		{
+			"artist": "X1 (엑스원)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm2/album/images/103/22/332/10322332_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "웃을 때 제일 예뻐",
+			"rank": 12,
+			"imgalt": "비상 : QUANTUM LEAP - 페이지 이동",
+			"videoId": "FifObqI2Hnk"
+		},
+		{
+			"artist": "X1 (엑스원)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm2/album/images/103/22/332/10322332_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "U GOT IT (X1 Ver.)",
+			"rank": 13,
+			"imgalt": "비상 : QUANTUM LEAP - 페이지 이동",
+			"videoId": "aHORdHnzavY"
+		},
+		{
+			"artist": "X1 (엑스원)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm2/album/images/103/22/332/10322332_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "움직여 (MOVE) (Prod. by ZICO) (X1 Ver.)",
+			"rank": 14,
+			"imgalt": "비상 : QUANTUM LEAP - 페이지 이동",
+			"videoId": "a81nw2b8-cg"
+		},
+		{
+			"artist": "EXO",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/32/781/10232781_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Love Shot",
+			"rank": 15,
+			"imgalt": "LOVE SHOT - The 5th Album Repackage - 페이지 이동",
+			"videoId": "gFWTrdA0iEM"
+		},
+		{
+			"artist": "오마이걸",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/14/743/10314743_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "BUNGEE (Fall in Love)",
+			"rank": 16,
+			"imgalt": "OH MY GIRL SUMMER PACKAGE [FALL IN LOVE] - 페이지 이동",
+			"videoId": "pT9y5EZLZRY"
+		},
+		{
+			"artist": "세븐틴",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm2/album/images/103/28/429/10328429_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Snap Shoot",
+			"rank": 17,
+			"imgalt": "SEVENTEEN 3RD ALBUM ‘An Ode’ - 페이지 이동",
+			"videoId": "XR7FTgvN3IA"
+		},
+		{
+			"artist": "세븐틴",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm2/album/images/103/28/429/10328429_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "거짓말을 해",
+			"rank": 18,
+			"imgalt": "SEVENTEEN 3RD ALBUM ‘An Ode’ - 페이지 이동",
+			"videoId": "XTLD6RrAfVk"
+		},
+		{
+			"artist": "TWICE (트와이스)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/83/127/10183127_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Dance The Night Away",
+			"rank": 19,
+			"imgalt": "Summer Nights - 페이지 이동",
+			"videoId": "z7zNn7Piti0"
+		},
+		{
+			"artist": "세븐틴",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm2/album/images/103/28/429/10328429_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Let me hear you say",
+			"rank": 20,
+			"imgalt": "SEVENTEEN 3RD ALBUM ‘An Ode’ - 페이지 이동",
+			"videoId": "8BIXY1FToRY"
+		},
+		{
+			"artist": "세븐틴",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm2/album/images/103/28/429/10328429_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Second Life",
+			"rank": 21,
+			"imgalt": "SEVENTEEN 3RD ALBUM ‘An Ode’ - 페이지 이동",
+			"videoId": "DqqvleS4c3Q"
+		},
+		{
+			"artist": "세븐틴",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm2/album/images/103/28/429/10328429_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "247",
+			"rank": 22,
+			"imgalt": "SEVENTEEN 3RD ALBUM ‘An Ode’ - 페이지 이동",
+			"videoId": "jXHygW0Qfjw"
+		},
+		{
+			"artist": "세븐틴",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm2/album/images/103/28/429/10328429_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Happy Ending (Korean Ver.)",
+			"rank": 23,
+			"imgalt": "SEVENTEEN 3RD ALBUM ‘An Ode’ - 페이지 이동",
+			"videoId": "zWaPC0Jj2s0"
+		},
+		{
+			"artist": "오마이걸",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/43/506/2643506_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "CLOSER",
+			"rank": 24,
+			"imgalt": "CLOSER - 페이지 이동",
+			"videoId": "Pyzu1kkuVRw"
+		},
+		{
+			"artist": "이하이",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/92/330/10292330_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "누구 없소 (NO ONE) (Feat. B.I of iKON)",
+			"rank": 25,
+			"imgalt": "24℃ - 페이지 이동",
+			"videoId": "ymRXmknaNiI"
+		},
+		{
+			"artist": "TWICE (트와이스)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/19/298/10219298_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "YES or YES",
+			"rank": 26,
+			"imgalt": "YES or YES - 페이지 이동",
+			"videoId": "6mTbxCBs0P4"
+		},
+		{
+			"artist": "오마이걸",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/82/459/10282459_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "다섯 번째 계절 (SSFWL)",
+			"rank": 27,
+			"imgalt": "THE FIFTH SEASON - 페이지 이동",
+			"videoId": "mOfGT1Cre_0"
+		},
+		{
+			"artist": "X1 (엑스원)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm2/album/images/103/22/332/10322332_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Stand Up (Intro.)",
+			"rank": 28,
+			"imgalt": "비상 : QUANTUM LEAP - 페이지 이동",
+			"videoId": "rUEJBYh1v88"
+		},
+		{
+			"artist": "세븐틴",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm2/album/images/103/28/429/10328429_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Network Love",
+			"rank": 29,
+			"imgalt": "SEVENTEEN 3RD ALBUM ‘An Ode’ - 페이지 이동",
+			"videoId": "b1RNCcs9DMk"
+		},
+		{
+			"artist": "Red Velvet (레드벨벳)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/97/980/10297980_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "짐살라빔 (Zimzalabim)",
+			"rank": 30,
+			"imgalt": "‘The ReVe Festival’ Day 1 - 페이지 이동",
+			"videoId": "sVKGFtd1IT0"
+		},
+		{
+			"artist": "WINNER",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/85/396/10285396_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "AH YEAH (아예)",
+			"rank": 31,
+			"imgalt": "WE - 페이지 이동",
+			"videoId": "qoym5AxNg0Y"
+		},
+		{
+			"artist": "화사(Hwa Sa)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/50/874/10250874_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "멍청이(twit)",
+			"rank": 32,
+			"imgalt": "멍청이(twit) - 페이지 이동",
+			"videoId": "sAbU56aE9GA"
+		},
+		{
+			"artist": "오마이걸",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/26/977/10126977_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "비밀정원",
+			"rank": 33,
+			"imgalt": "비밀정원 - 페이지 이동",
+			"videoId": "rUAKou7lFDU"
+		},
+		{
+			"artist": "AOA",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm2/album/images/103/27/966/10327966_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "너나 해 (Egotistic)",
+			"rank": 34,
+			"imgalt": "퀸덤 Part. 1 - 페이지 이동",
+			"videoId": "yQZW5fpDvXI"
+		},
+		{
+			"artist": "세븐틴",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm2/album/images/103/28/429/10328429_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Lucky",
+			"rank": 35,
+			"imgalt": "SEVENTEEN 3RD ALBUM ‘An Ode’ - 페이지 이동",
+			"videoId": "S0PuljqQ67o"
+		},
+		{
+			"artist": "EXO",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/18/750/10218750_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Tempo",
+			"rank": 36,
+			"imgalt": "DON`T MESS UP MY TEMPO - The 5th Album - 페이지 이동",
+			"videoId": "wpaPJ7aj0Ng"
+		},
+		{
+			"artist": "여자친구 (GFRIEND)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/02/011/10302011_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "열대야 (Fever)",
+			"rank": 37,
+			"imgalt": "여자친구 The 7th Mini Album `FEVER SEASON` - 페이지 이동",
+			"videoId": "bvpYqwd9AWw"
+		},
+		{
+			"artist": "IZ*ONE (아이즈원)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/68/465/10268465_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "비올레타",
+			"rank": 38,
+			"imgalt": "HEART*IZ - 페이지 이동",
+			"videoId": "ehjbe_qBFhc"
+		},
+		{
+			"artist": "세븐틴",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm2/album/images/103/28/429/10328429_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Back it up",
+			"rank": 39,
+			"imgalt": "SEVENTEEN 3RD ALBUM ‘An Ode’ - 페이지 이동",
+			"videoId": "UzmF-NgWMTE"
+		},
+		{
+			"artist": "마마무(Mamamoo)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/61/306/10261306_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "고고베베 (gogobebe)",
+			"rank": 40,
+			"imgalt": "White Wind - 페이지 이동",
+			"videoId": "AFB8LxFj5TU"
+		},
+		{
+			"artist": "세븐틴",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/14/714/10314714_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "HIT",
+			"rank": 41,
+			"imgalt": "HIT - 페이지 이동",
+			"videoId": "rWAkKc7sTUY"
+		},
+		{
+			"artist": "청하",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/29/940/10129940_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Roller Coaster",
+			"rank": 42,
+			"imgalt": "Offset - 페이지 이동",
+			"videoId": "qJNe2m0alfY"
+		},
+		{
+			"artist": "전소미",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/96/482/10296482_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "BIRTHDAY",
+			"rank": 43,
+			"imgalt": "BIRTHDAY - 페이지 이동",
+			"videoId": "jvuRXFJWaHY"
+		},
+		{
+			"artist": "(여자)아이들",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/63/578/10163578_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "LATATA",
+			"rank": 44,
+			"imgalt": "I am - 페이지 이동",
+			"videoId": "ilS4StY_6A4"
+		},
+		{
+			"artist": "갓츄 (GOT U)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/03/856/10303856_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "U GOT IT",
+			"rank": 45,
+			"imgalt": "PRODUCE X 101 - 31 Boys 5 Concepts - 페이지 이동",
+			"videoId": "3sC8ESZDY9U"
+		},
+		{
+			"artist": "오마이걸",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/02/711/10202711_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "불꽃놀이 (Remember Me)",
+			"rank": 46,
+			"imgalt": "OH MY GIRL 6th Mini Album (REMEMBER ME) - 페이지 이동",
+			"videoId": "p0Mb4MPPQNI"
+		},
+		{
+			"artist": "TWICE (트와이스)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/56/195/10156195_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "What is Love?",
+			"rank": 47,
+			"imgalt": "What is Love? - 페이지 이동",
+			"videoId": "lmml3BD8rWQ"
+		},
+		{
+			"artist": "크레파스",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/03/856/10303856_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "이뻐이뻐 (Pretty girl)",
+			"rank": 48,
+			"imgalt": "PRODUCE X 101 - 31 Boys 5 Concepts - 페이지 이동",
+			"videoId": "cBlFJUuwO8g"
+		},
+		{
+			"artist": "방탄소년단",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/80/573/2680573_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "불타오르네 (FIRE)",
+			"rank": 49,
+			"imgalt": "화양연화 Young Forever - 페이지 이동",
+			"videoId": "ikzth8ICJ1U"
+		},
+		{
+			"artist": "BLACKPINK",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/76/415/10176415_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Forever Young",
+			"rank": 50,
+			"imgalt": "SQUARE UP - 페이지 이동",
+			"videoId": "s_7yNDzG7OI"
+		},
+		{
+			"artist": "세븐틴",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm2/album/images/103/28/429/10328429_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "HIT",
+			"rank": 51,
+			"imgalt": "SEVENTEEN 3RD ALBUM ‘An Ode’ - 페이지 이동",
+			"videoId": "rWAkKc7sTUY"
+		},
+		{
+			"artist": "(여자)아이들",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/94/362/10194362_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "한(一)",
+			"rank": 52,
+			"imgalt": "한(一) - 페이지 이동",
+			"videoId": "WI9YfDvNqlQ"
+		},
+		{
+			"artist": "선미",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/00/838/10200838_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "사이렌 (Siren)",
+			"rank": 53,
+			"imgalt": "WARNING - 페이지 이동",
+			"videoId": "7wXD5ab2VVQ"
+		},
+		{
+			"artist": "Red Velvet (레드벨벳)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/77/879/10077879_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "빨간 맛 (Red Flavor)",
+			"rank": 54,
+			"imgalt": "The Red Summer - Summer Mini Album - 페이지 이동",
+			"videoId": "kBCG2ToqhAs"
+		},
+		{
+			"artist": "마마무(Mamamoo)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/85/416/10185416_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "너나 해 (Egotistic)",
+			"rank": 55,
+			"imgalt": "RED MOON - 페이지 이동",
+			"videoId": "wDwgNuFhe9M"
+		},
+		{
+			"artist": "모모랜드 (MOMOLAND)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/24/822/10124822_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "뿜뿜",
+			"rank": 56,
+			"imgalt": "GREAT! - 페이지 이동",
+			"videoId": "FDlO-K8cWGY"
+		},
+		{
+			"artist": "IZ*ONE (아이즈원)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/17/163/10217163_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "라비앙로즈 (La Vie en Rose)",
+			"rank": 57,
+			"imgalt": "COLOR*IZ - 페이지 이동",
+			"videoId": "KOYar7UmX_Y"
+		},
+		{
+			"artist": "마마무(Mamamoo)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/45/303/10145303_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "별이 빛나는 밤",
+			"rank": 58,
+			"imgalt": "Yellow Flower - 페이지 이동",
+			"videoId": "5_U75ceRuzw"
+		},
+		{
+			"artist": "박경 (블락비)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm2/album/images/103/32/706/10332706_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "다만 너",
+			"rank": 59,
+			"imgalt": "다시 만난 너 OST - 페이지 이동",
+			"videoId": "evsAdw0Tg7Q"
+		},
+		{
+			"artist": "세븐틴",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/95/228/2695228_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "아주 NICE",
+			"rank": 60,
+			"imgalt": "Love&Letter Repackage Album - 페이지 이동",
+			"videoId": "_5eFsi-PLt4"
+		},
+		{
+			"artist": "브라운아이드걸스",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/020/13/176/2013176_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Sixth Sense",
+			"rank": 61,
+			"imgalt": "Sixth Sense - 페이지 이동",
+			"videoId": "KkrbG-Zgcus"
+		},
+		{
+			"artist": "WINNER",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/34/872/10234872_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "MILLIONS",
+			"rank": 62,
+			"imgalt": "MILLIONS - 페이지 이동",
+			"videoId": "4L3S-i-Lu7w"
+		},
+		{
+			"artist": "BLACKPINK",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/72/696/10072696_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "마지막처럼",
+			"rank": 63,
+			"imgalt": "마지막처럼 - 페이지 이동",
+			"videoId": "OUf5OOlPoJM"
+		},
+		{
+			"artist": "효린, 창모 (CHANGMO)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/55/259/10055259_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "BLUE MOON (Prod. GroovyRoom)",
+			"rank": 64,
+			"imgalt": "BLUE MOON - 페이지 이동",
+			"videoId": "syb8w0qBv9k"
+		},
+		{
+			"artist": "마마무(Mamamoo)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm2/album/images/103/27/966/10327966_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Good Luck",
+			"rank": 65,
+			"imgalt": "퀸덤 Part. 1 - 페이지 이동",
+			"videoId": "6pLMaKGaj-U"
+		},
+		{
+			"artist": "(여자)아이들",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/55/272/10255272_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Senorita",
+			"rank": 66,
+			"imgalt": "I made - 페이지 이동",
+			"videoId": "33Js5FPEeKA"
+		},
+		{
+			"artist": "Red Velvet (레드벨벳)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/91/694/10191694_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Power Up",
+			"rank": 67,
+			"imgalt": "Summer Magic - Summer Mini Album - 페이지 이동",
+			"videoId": "ZXyToCnqOU0"
+		},
+		{
+			"artist": "BLACKPINK",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/70/288/10270288_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Don`t Know What To Do",
+			"rank": 68,
+			"imgalt": "KILL THIS LOVE - 페이지 이동",
+			"videoId": "1oYwBgFOTHg"
+		},
+		{
+			"artist": "SIXC (6 crazy)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/03/856/10303856_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "움직여 (MOVE) (Prod. by ZICO)",
+			"rank": 69,
+			"imgalt": "PRODUCE X 101 - 31 Boys 5 Concepts - 페이지 이동",
+			"videoId": "ne5-_HpmL2c"
+		},
+		{
+			"artist": "TWICE (트와이스)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/18/955/10118955_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Heart Shaker",
+			"rank": 70,
+			"imgalt": "Merry & Happy - 페이지 이동",
+			"videoId": "xGI9eIPrIMo"
+		},
+		{
+			"artist": "TWICE (트와이스)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/81/333/2681333_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "CHEER UP",
+			"rank": 71,
+			"imgalt": "PAGE TWO - 페이지 이동",
+			"videoId": "F1n4TKIv2SQ"
+		},
+		{
+			"artist": "핑클 (Fin.K.L)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/000/05/291/5291_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "영원한 사랑",
+			"rank": 72,
+			"imgalt": "White - 페이지 이동",
+			"videoId": "SyTtCQnESZo"
+		},
+		{
+			"artist": "마마무(Mamamoo)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/12/900/10012900_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Decalcomanie (데칼코마니)",
+			"rank": 73,
+			"imgalt": "MEMORY - 페이지 이동",
+			"videoId": "4BCLfSL6DWU"
+		},
+		{
+			"artist": "청하",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/102/99/371/10299371_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Chica",
+			"rank": 74,
+			"imgalt": "Flourishing - 페이지 이동",
+			"videoId": "EvsC6AheFsc"
+		},
+		{
+			"artist": "BLACKPINK",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/11/491/10011491_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "불장난",
+			"rank": 75,
+			"imgalt": "SQUARE TWO - 페이지 이동",
+			"videoId": "T_AAvXodGoI"
+		},
+		{
+			"artist": "여자친구 (GFRIEND)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/63/106/10163106_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "밤 (Time for the moon night)",
+			"rank": 76,
+			"imgalt": "여자친구 The 6th Mini Album 'Time for the moon night' - 페이지 이동",
+			"videoId": "K6lKLqP75ak"
+		},
+		{
+			"artist": "거북이",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/003/22/845/322845_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "비행기",
+			"rank": 77,
+			"imgalt": "거북이 사요!! - 페이지 이동",
+			"videoId": "bmrOg3ZnMHc"
+		},
+		{
+			"artist": "WINNER",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/51/659/10051659_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "REALLY REALLY",
+			"rank": 78,
+			"imgalt": "FATE NUMBER FOR - 페이지 이동",
+			"videoId": "A-Z_u56Kwj4"
+		},
+		{
+			"artist": "Apink (에이핑크)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/81/013/10181013_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "1도 없어",
+			"rank": 79,
+			"imgalt": "ONE & SIX - 페이지 이동",
+			"videoId": "ovf1V3c3iaE"
+		},
+		{
+			"artist": "아이유",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/46/282/2646282_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "스물셋",
+			"rank": 80,
+			"imgalt": "CHAT-SHIRE - 페이지 이동",
+			"videoId": "uxK4f1blx3k"
+		},
+		{
+			"artist": "선미",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/89/089/10089089_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "가시나",
+			"rank": 81,
+			"imgalt": "SUNMI SPECIAL EDITION `가시나` - 페이지 이동",
+			"videoId": "sjMZsg4MJCI"
+		},
+		{
+			"artist": "NCT DREAM",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/103/11/530/10311530_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "BOOM",
+			"rank": 82,
+			"imgalt": "We Boom - The 3rd Mini Album - 페이지 이동",
+			"videoId": "IOk4fwBjcE8"
+		},
+		{
+			"artist": "TWICE (트와이스)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/07/114/10107114_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "LIKEY",
+			"rank": 83,
+			"imgalt": "twicetagram - 페이지 이동",
+			"videoId": "BHOCt2pBVMg"
+		},
+		{
+			"artist": "오마이걸",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/74/243/2674243_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "한 발짝 두 발짝",
+			"rank": 84,
+			"imgalt": "PINK OCEAN - 페이지 이동",
+			"videoId": "Mj-vJBUVsr4"
+		},
+		{
+			"artist": "Red Velvet (레드벨벳)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/34/032/10134032_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Bad Boy",
+			"rank": 85,
+			"imgalt": "The Perfect Red Velvet - The 2nd Album Repackage - 페이지 이동",
+			"videoId": "ZZ5pOM44ts4"
+		},
+		{
+			"artist": "핑클 (Fin.K.L)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/000/03/248/3248_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "내 남자 친구에게",
+			"rank": 86,
+			"imgalt": "Fine Killing Liberty : Blue Rain - 페이지 이동",
+			"videoId": "HMxOf_ZYTcA"
+		},
+		{
+			"artist": "아이유",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/010/93/562/1093562_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "좋은 날",
+			"rank": 87,
+			"imgalt": "Real - 페이지 이동",
+			"videoId": "giDu1tNwqog"
+		},
+		{
+			"artist": "Wanna One (워너원)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/85/951/10085951_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "에너제틱 (Energetic)",
+			"rank": 88,
+			"imgalt": "1X1=1(TO BE ONE) - 페이지 이동",
+			"videoId": "sMTMBrHB2f4"
+		},
+		{
+			"artist": "청하",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/68/972/10068972_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Why Don`t You Know (Feat. 넉살)",
+			"rank": 89,
+			"imgalt": "Hands on Me - 페이지 이동",
+			"videoId": "PgMcsyb2OJo"
+		},
+		{
+			"artist": "태연 (TAEYEON)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/93/802/2693802_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Why",
+			"rank": 90,
+			"imgalt": "Why - The 2nd Mini Album - 페이지 이동",
+			"videoId": "VIWGrjyKvKw"
+		},
+		{
+			"artist": "2NE1",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/005/98/055/598055_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "I Don`t Care",
+			"rank": 91,
+			"imgalt": "2NE1 1st Mini Album - 페이지 이동",
+			"videoId": "COAMApMxS94"
+		},
+		{
+			"artist": "박봄",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/007/06/753/706753_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "YOU AND I",
+			"rank": 92,
+			"imgalt": "YOU AND I - 페이지 이동",
+			"videoId": "ZATXl_xBEcQ"
+		},
+		{
+			"artist": "TWICE (트와이스)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/100/08/861/10008861_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "TT",
+			"rank": 93,
+			"imgalt": "TWICEcoaster : LANE 1 - 페이지 이동",
+			"videoId": "dpJbYm-Ju80"
+		},
+		{
+			"artist": "청하",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/86/254/10186254_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Love U",
+			"rank": 94,
+			"imgalt": "Blooming Blue - 페이지 이동",
+			"videoId": "U7k3BS14dws"
+		},
+		{
+			"artist": "Red Velvet (레드벨벳)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/027/09/585/2709585_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "러시안 룰렛 (Russian Roulette)",
+			"rank": 95,
+			"imgalt": "Russian Roulette - The 3rd Mini Album - 페이지 이동",
+			"videoId": "M0ylX08k0P4"
+		},
+		{
+			"artist": "아이유",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/020/40/666/2040666_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "너랑 나",
+			"rank": 96,
+			"imgalt": "Last Fantasy - 페이지 이동",
+			"videoId": "rsvKskQcFD4"
+		},
+		{
+			"artist": "세븐틴",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/85/387/10185387_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "어쩌나",
+			"rank": 97,
+			"imgalt": "SEVENTEEN 5TH MINI ALBUM `YOU MAKE MY DAY` - 페이지 이동",
+			"videoId": "WHyzOQCra6c"
+		},
+		{
+			"artist": "오마이걸",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/026/87/152/2687152_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "WINDY DAY",
+			"rank": 98,
+			"imgalt": "WINDY DAY - 페이지 이동",
+			"videoId": "HOp7NUbg_3E"
+		},
+		{
+			"artist": "선미",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/28/855/10128855_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "주인공",
+			"rank": 99,
+			"imgalt": "주인공 - 페이지 이동",
+			"videoId": "DUTUHUbJ6u8"
+		},
+		{
+			"artist": "Red Velvet (레드벨벳)",
+			"imgsrc": "https://cdnimg.melon.co.kr/cm/album/images/101/12/486/10112486_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "피카부 (Peek-A-Boo)",
+			"rank": 100,
+			"imgalt": "Perfect Velvet - The 2nd Album - 페이지 이동",
+			"videoId": "TBOzu7NQDhk"
+		}
+	],
+	"chart": "Melon",
+	"date": "2019-10-01 12:00:02.444407"
+}
