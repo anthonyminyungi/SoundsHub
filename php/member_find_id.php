@@ -3,7 +3,7 @@
 // error_reporting(E_ALL);
 
 // ini_set("display_errors", 1);
-$connect = mysqli_connect('localhost', 'root', 'akejvkej123', 'first');
+$connect = mysqli_connect('localhost', 'root', 'password', 'dbname');
 mysqli_set_charset($connect, 'utf8');
 
 if (mysqli_connect_errno()) {

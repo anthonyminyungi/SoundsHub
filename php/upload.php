@@ -13,7 +13,7 @@ if($id == '' || $pw == '' || $sex == '' || $email == '' || $birth == '' || $name
 }
 
 
-$connect = new mysqli("localhost", "root", "akejvkej123", "first", "3306");
+$connect = mysqli_connect('localhost', 'root', 'password', 'dbname');
 mysqli_set_charset($connect, "utf8");
 
 if (mysqli_connect_errno()) {

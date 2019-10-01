@@ -6,7 +6,7 @@
 // ini_set('html_errors', 1);
 session_start();
 
-$connect = mysqli_connect('localhost', 'root', 'akejvkej123', 'first');
+$connect = mysqli_connect('localhost', 'root', 'password', 'dbname');
 mysqli_set_charset($connect, 'utf8');
 
 if (mysqli_connect_errno()) {

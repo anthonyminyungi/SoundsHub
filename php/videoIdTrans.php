@@ -2,7 +2,7 @@
     $chart = $_POST['param1'];
     $artist = $_POST['param2'];
     $title = $_POST['param3'];
-    $connect = mysqli_connect('localhost','root','akejvkej123','first');
+    $connect = mysqli_connect('localhost', 'root', 'password', 'dbname');
     mysqli_set_charset($connect, 'utf8');
 
     if( mysqli_connect_errno()){
